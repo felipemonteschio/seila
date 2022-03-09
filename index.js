@@ -21,3 +21,5 @@ console.log(retangulo.altura)
 
 console.log(quadrado.area())
 console.log(retangulo.area())
+
+let circulo = new Retangulo("50","50")
